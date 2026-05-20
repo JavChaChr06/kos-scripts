@@ -1,0 +1,590 @@
+=== Landing Log Started at T+20443 ===
+--- Boostback Start ---
+  Landing target: -0.2057, -74.4731
+  Initial impact: 0.5572, -69.8024
+  Initial dist: 49559m
+  t+0s dist=49554.9m minSeen=49554.9m angErr=103deg thr=0 hdg=0 impact=(0.5571,-69.8028)
+    vectors baseDir=(0.614,-0.285,0.736) errDir=(0.632,-0.161,0.758) steer=(0.646,-0.173,0.743) velSurf=(-702.225,32.388,276.224) face=(-0.881,0.029,0.472)
+  t+0.6s dist=49497.6m minSeen=49497.6m angErr=101deg thr=0 hdg=0 impact=(0.5569,-69.8083)
+    vectors baseDir=(0.614,-0.282,0.737) errDir=(0.632,-0.161,0.758) steer=(0.646,-0.173,0.743) velSurf=(-697.7,32.377,273.199) face=(-0.864,0.019,0.504)
+  t+1.1s dist=49419.6m minSeen=49419.6m angErr=96.7deg thr=0 hdg=0 impact=(0.5565,-69.8157)
+    vectors baseDir=(0.615,-0.28,0.738) errDir=(0.632,-0.161,0.758) steer=(0.646,-0.173,0.744) velSurf=(-693.094,32.353,270.243) face=(-0.824,-0.012,0.566)
+  t+1.7s dist=49291.6m minSeen=49291.6m angErr=89.7deg thr=0 hdg=0 impact=(0.555,-69.8279)
+    vectors baseDir=(0.615,-0.277,0.738) errDir=(0.632,-0.161,0.758) steer=(0.646,-0.173,0.744) velSurf=(-688.299,32.268,267.444) face=(-0.75,-0.065,0.658)
+  t+2.3s dist=49090.6m minSeen=49090.6m angErr=79.7deg thr=0 hdg=0 impact=(0.5518,-69.8468)
+    vectors baseDir=(0.615,-0.275,0.739) errDir=(0.632,-0.161,0.758) steer=(0.646,-0.173,0.744) velSurf=(-683.212,32.091,264.863) face=(-0.625,-0.137,0.769)
+  t+2.8s dist=48803m minSeen=48803m angErr=67.2deg thr=0 hdg=0 impact=(0.5468,-69.8738)
+    vectors baseDir=(0.616,-0.273,0.739) errDir=(0.631,-0.161,0.759) steer=(0.645,-0.172,0.744) velSurf=(-677.645,31.821,262.398) face=(-0.44,-0.225,0.869)
+  t+3.4s dist=48469.2m minSeen=48469.2m angErr=53.2deg thr=0 hdg=0 impact=(0.5407,-69.9051)
+    vectors baseDir=(0.616,-0.271,0.74) errDir=(0.631,-0.161,0.759) steer=(0.645,-0.172,0.744) velSurf=(-671.599,31.511,259.682) face=(-0.201,-0.323,0.925)
+  t+3.9s dist=48186.5m minSeen=48186.5m angErr=37.7deg thr=0 hdg=0 impact=(0.5352,-69.9316)
+    vectors baseDir=(0.616,-0.268,0.741) errDir=(0.631,-0.161,0.759) steer=(0.645,-0.172,0.745) velSurf=(-665.585,31.246,256.571) face=(0.083,-0.386,0.919)
+  t+4.5s dist=47993m minSeen=47993m angErr=21.9deg thr=0 hdg=0 impact=(0.5317,-69.9497)
+    vectors baseDir=(0.616,-0.266,0.741) errDir=(0.631,-0.161,0.759) steer=(0.645,-0.171,0.745) velSurf=(-659.827,31.096,253.033) face=(0.381,-0.403,0.832)
+  t+5.1s dist=47881.6m minSeen=47881.6m angErr=12deg thr=0 hdg=0 impact=(0.5315,-69.9605)
+    vectors baseDir=(0.616,-0.265,0.742) errDir=(0.631,-0.161,0.759) steer=(0.645,-0.171,0.745) velSurf=(-654.371,31.141,249.214) face=(0.651,-0.365,0.665)
+  t+5.6s dist=47852.3m minSeen=47852.2m angErr=21.4deg thr=0 hdg=0 impact=(0.5349,-69.9639)
+    vectors baseDir=(0.617,-0.263,0.742) errDir=(0.631,-0.162,0.759) steer=(0.645,-0.172,0.745) velSurf=(-649.313,31.39,245.224) face=(0.859,-0.271,0.434)
+  t+6.2s dist=47877.4m minSeen=47852.2m angErr=37.4deg thr=0 hdg=0 impact=(0.5385,-69.962)
+    vectors baseDir=(0.617,-0.261,0.743) errDir=(0.63,-0.163,0.759) steer=(0.644,-0.172,0.745) velSurf=(-644.759,31.615,241.377) face=(0.976,-0.131,0.175)
+  t+6.7s dist=47900.3m minSeen=47852.2m angErr=53.4deg thr=0 hdg=0 impact=(0.5387,-69.9599)
+    vectors baseDir=(0.617,-0.259,0.743) errDir=(0.63,-0.163,0.759) steer=(0.644,-0.172,0.745) velSurf=(-640.541,31.633,237.923) face=(0.997,0.032,-0.074)
+  t+7.3s dist=47898.1m minSeen=47852.2m angErr=67.6deg thr=0 hdg=0 impact=(0.5366,-69.9597)
+    vectors baseDir=(0.617,-0.257,0.744) errDir=(0.63,-0.162,0.759) steer=(0.644,-0.172,0.745) velSurf=(-636.435,31.505,234.762) face=(0.941,0.191,-0.279)
+  t+7.9s dist=47868.5m minSeen=47852.2m angErr=79.6deg thr=0 hdg=0 impact=(0.5329,-69.962)
+    vectors baseDir=(0.617,-0.256,0.744) errDir=(0.63,-0.161,0.76) steer=(0.644,-0.171,0.746) velSurf=(-632.253,31.289,231.723) face=(0.841,0.336,-0.424)
+  t+8.4s dist=47803.2m minSeen=47803.2m angErr=88.7deg thr=0 hdg=0 impact=(0.5275,-69.9674)
+    vectors baseDir=(0.617,-0.254,0.745) errDir=(0.63,-0.16,0.76) steer=(0.644,-0.17,0.746) velSurf=(-627.918,30.966,228.782) face=(0.729,0.46,-0.507)
+  t+9s dist=47711m minSeen=47711m angErr=94.6deg thr=0 hdg=0 impact=(0.521,-69.9753)
+    vectors baseDir=(0.617,-0.253,0.745) errDir=(0.63,-0.159,0.76) steer=(0.644,-0.169,0.746) velSurf=(-623.439,30.587,225.867) face=(0.632,0.565,-0.531)
+  t+9.5s dist=47608.1m minSeen=47608.1m angErr=96.9deg thr=0 hdg=0 impact=(0.5143,-69.9842)
+    vectors baseDir=(0.617,-0.251,0.746) errDir=(0.63,-0.158,0.76) steer=(0.644,-0.168,0.746) velSurf=(-618.86,30.199,222.912) face=(0.565,0.653,-0.504)
+  t+10.1s dist=47511.1m minSeen=47511.1m angErr=95.8deg thr=0 hdg=0 impact=(0.5077,-69.9925)
+    vectors baseDir=(0.617,-0.25,0.746) errDir=(0.63,-0.157,0.761) steer=(0.644,-0.166,0.747) velSurf=(-614.275,29.821,219.903) face=(0.535,0.726,-0.432)
+  t+10.7s dist=47425.1m minSeen=47425.1m angErr=91.7deg thr=0 hdg=0 impact=(0.5014,-69.9998)
+    vectors baseDir=(0.618,-0.248,0.746) errDir=(0.63,-0.156,0.761) steer=(0.644,-0.165,0.747) velSurf=(-609.73,29.453,216.836) face=(0.541,0.777,-0.323)
+  t+11.2s dist=47354m minSeen=47354m angErr=84.8deg thr=0 hdg=0 impact=(0.4953,-70.0057)
+    vectors baseDir=(0.618,-0.247,0.747) errDir=(0.63,-0.155,0.761) steer=(0.644,-0.164,0.747) velSurf=(-605.247,29.1,213.713) face=(0.576,0.796,-0.187)
+  t+11.8s dist=47299.9m minSeen=47299.9m angErr=75.7deg thr=0 hdg=0 impact=(0.4896,-70.0101)
+    vectors baseDir=(0.618,-0.245,0.747) errDir=(0.63,-0.154,0.762) steer=(0.644,-0.163,0.747) velSurf=(-600.834,28.772,210.539) face=(0.63,0.776,-0.029)
+  t+12.3s dist=47261.1m minSeen=47261.1m angErr=65.8deg thr=0 hdg=0 impact=(0.4846,-70.013)
+    vectors baseDir=(0.618,-0.244,0.748) errDir=(0.63,-0.153,0.762) steer=(0.644,-0.162,0.748) velSurf=(-596.497,28.482,207.318) face=(0.675,0.725,0.138)
+  t+12.9s dist=47234.3m minSeen=47234.3m angErr=56.1deg thr=0 hdg=0 impact=(0.4806,-70.015)
+    vectors baseDir=(0.618,-0.242,0.748) errDir=(0.63,-0.152,0.762) steer=(0.644,-0.161,0.748) velSurf=(-592.208,28.251,204.062) face=(0.697,0.652,0.299)
+  t+13.5s dist=47215.1m minSeen=47215.1m angErr=46.8deg thr=0 hdg=0 impact=(0.4777,-70.0164)
+    vectors baseDir=(0.618,-0.241,0.748) errDir=(0.629,-0.151,0.762) steer=(0.644,-0.16,0.748) velSurf=(-587.95,28.083,200.799) face=(0.695,0.562,0.448)
+  t+14s dist=47196.1m minSeen=47196.1m angErr=37.9deg thr=0 hdg=0 impact=(0.4757,-70.0179)
+    vectors baseDir=(0.618,-0.24,0.749) errDir=(0.629,-0.151,0.762) steer=(0.644,-0.16,0.748) velSurf=(-583.709,27.972,197.554) face=(0.673,0.457,0.582)
+  t+14.6s dist=47175.1m minSeen=47175.1m angErr=29.8deg thr=0 hdg=0 impact=(0.4744,-70.0198)
+    vectors baseDir=(0.618,-0.238,0.749) errDir=(0.629,-0.151,0.762) steer=(0.644,-0.16,0.749) velSurf=(-579.473,27.907,194.344) face=(0.648,0.341,0.681)
+  t+15.1s dist=47154.3m minSeen=47154.3m angErr=22.4deg thr=0 hdg=0 impact=(0.4737,-70.0217)
+    vectors baseDir=(0.618,-0.237,0.749) errDir=(0.629,-0.151,0.763) steer=(0.643,-0.159,0.749) velSurf=(-575.253,27.869,191.168) face=(0.641,0.221,0.735)
+  t+15.7s dist=47132.4m minSeen=47132.4m angErr=15.3deg thr=0 hdg=0 impact=(0.4731,-70.0237)
+    vectors baseDir=(0.618,-0.236,0.75) errDir=(0.629,-0.151,0.763) steer=(0.643,-0.159,0.749) velSurf=(-571.061,27.845,188.016) face=(0.647,0.098,0.756)
+  t+16.3s dist=47111.7m minSeen=47111.7m angErr=8.3deg thr=0 hdg=0 impact=(0.4728,-70.0256)
+    vectors baseDir=(0.618,-0.235,0.75) errDir=(0.629,-0.151,0.763) steer=(0.643,-0.159,0.749) velSurf=(-566.896,27.832,184.881) face=(0.649,-0.022,0.76)
+  t+16.8s dist=45792.6m minSeen=45792.6m angErr=3.3deg thr=1 hdg=0 impact=(0.4547,-70.1503)
+    vectors baseDir=(0.618,-0.234,0.751) errDir=(0.629,-0.151,0.763) steer=(0.643,-0.159,0.749) velSurf=(-556.223,26.449,189.234) face=(0.643,-0.107,0.758)
+  t+17.4s dist=39507.5m minSeen=39507.5m angErr=1.4deg thr=1 hdg=0 impact=(0.377,-70.7456)
+    vectors baseDir=(0.618,-0.233,0.751) errDir=(0.628,-0.154,0.763) steer=(0.643,-0.162,0.749) velSurf=(-529.489,21.794,212.899) face=(0.638,-0.142,0.756)
+  t+17.9s dist=33443.7m minSeen=33443.7m angErr=0.6deg thr=1 hdg=0 impact=(0.2888,-71.3179)
+    vectors baseDir=(0.618,-0.232,0.751) errDir=(0.628,-0.155,0.763) steer=(0.642,-0.162,0.749) velSurf=(-502.486,16.289,236.733) face=(0.638,-0.156,0.754)
+  t+18.5s dist=27382.3m minSeen=27382.3m angErr=0.4deg thr=1 hdg=0 impact=(0.1966,-71.8894)
+    vectors baseDir=(0.618,-0.231,0.751) errDir=(0.628,-0.154,0.763) steer=(0.642,-0.162,0.749) velSurf=(-475.226,10.483,260.853) face=(0.637,-0.162,0.754)
+  t+19.1s dist=21532.9m minSeen=21532.9m angErr=0.5deg thr=1 hdg=0 impact=(0.1059,-72.4406)
+    vectors baseDir=(0.618,-0.23,0.751) errDir=(0.628,-0.152,0.763) steer=(0.643,-0.159,0.749) velSurf=(-447.748,4.499,285.324) face=(0.636,-0.165,0.754)
+  t+19.6s dist=15239.1m minSeen=15239.1m angErr=0.9deg thr=1 hdg=0 impact=(0.0065,-73.0334)
+    vectors baseDir=(0.618,-0.23,0.751) errDir=(0.629,-0.146,0.764) steer=(0.643,-0.154,0.75) velSurf=(-420.041,-1.663,310.145) face=(0.635,-0.166,0.754)
+  t+20.2s dist=9144.2m minSeen=9144.2m angErr=1.4deg thr=1 hdg=0 impact=(-0.0907,-73.6075)
+    vectors baseDir=(0.618,-0.23,0.752) errDir=(0.63,-0.132,0.765) steer=(0.644,-0.142,0.752) velSurf=(-392.066,-7.955,335.306) face=(0.636,-0.165,0.754)
+  t+20.7s dist=3028.3m minSeen=3028.3m angErr=1.3deg thr=1 hdg=0 impact=(-0.185,-74.1846)
+    vectors baseDir=(0.618,-0.229,0.752) errDir=(0.634,-0.072,0.77) steer=(0.64,-0.182,0.746) velSurf=(-363.763,-14.08,360.838) face=(0.636,-0.162,0.754)
+BREAK: Overshoot detected (dist=302.9m, minSeen=249.9m)
+--- Boostback Done. Final error: 302.9m ---
+--- Glide Start ---
+  glide alt=37988.9m vel=510.1m/s vv=505m/s hv=68.8m/s thr=0 ideal=0.19 burning=False err=357m
+    burn estStop=2170m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-0.7 faceUpErr=90.7deg aoaCmd=19.9deg
+    vectors retro=(0.682,0.033,-0.73) rawSteer=(0.799,-0.238,-0.552) smooth=(0.71,-0.016,-0.704) velSurf=(-347.656,-17.034,372.497) corrVec=(-138.785,282.242,-168.838)
+  glide alt=39026.4m vel=491.4m/s vv=486.2m/s hv=69.2m/s thr=0 ideal=0.19 burning=False err=357.9m
+    burn estStop=2013.4m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-14.7 faceUpErr=104.7deg aoaCmd=19.9deg
+    vectors retro=(0.678,0.035,-0.735) rawSteer=(0.798,-0.234,-0.555) smooth=(0.8,-0.233,-0.553) velSurf=(-332.665,-17.015,360.807) corrVec=(-141.359,280.366,-171.861)
+  glide alt=40013.2m vel=473.1m/s vv=467.6m/s hv=69.5m/s thr=0 ideal=0.18 burning=False err=325.5m
+    burn estStop=1866.1m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-36.5 faceUpErr=126.5deg aoaCmd=19.9deg
+    vectors retro=(0.673,0.036,-0.739) rawSteer=(0.784,-0.244,-0.57) smooth=(0.786,-0.243,-0.568) velSurf=(-318.084,-16.938,349.327) corrVec=(-119.625,265.582,-145.372)
+  glide alt=40962.9m vel=455.1m/s vv=449.3m/s hv=69.7m/s thr=0 ideal=0.18 burning=False err=282.4m
+    burn estStop=1726.5m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-59.2 faceUpErr=149.2deg aoaCmd=19.9deg
+    vectors retro=(0.668,0.037,-0.743) rawSteer=(0.77,-0.253,-0.586) smooth=(0.772,-0.252,-0.584) velSurf=(-303.747,-16.779,337.961) corrVec=(-95.804,238.768,-116.369)
+  glide alt=41877.5m vel=437.3m/s vv=431.3m/s hv=69.9m/s thr=0 ideal=0.18 burning=False err=256.8m
+    burn estStop=1594.2m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-75.2 faceUpErr=165.2deg aoaCmd=19.9deg
+    vectors retro=(0.663,0.038,-0.748) rawSteer=(0.758,-0.258,-0.598) smooth=(0.76,-0.258,-0.597) velSurf=(-289.551,-16.679,326.792) corrVec=(-82.381,221.73,-100.012)
+  glide alt=42723m vel=420.3m/s vv=413m/s hv=70.3m/s thr=0 ideal=0.17 burning=False err=238.3m
+    burn estStop=1472.9m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-75.3 faceUpErr=165.3deg aoaCmd=19.9deg
+    vectors retro=(0.657,0.04,-0.753) rawSteer=(0.745,-0.264,-0.613) smooth=(0.75,-0.262,-0.607) velSurf=(-275.15,-16.622,315.5) corrVec=(-70.98,210.593,-86.124)
+  glide alt=43660.5m vel=400.7m/s vv=393.1m/s hv=70.6m/s thr=0 ideal=0.17 burning=False err=224.6m
+    burn estStop=1338.9m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-74.9 faceUpErr=164.9deg aoaCmd=19.9deg
+    vectors retro=(0.65,0.041,-0.759) rawSteer=(0.733,-0.266,-0.625) smooth=(0.739,-0.265,-0.619) velSurf=(-259.464,-16.567,303.175) corrVec=(-63.51,201.22,-77.009)
+  glide alt=44551.9m vel=381.3m/s vv=373.3m/s hv=70.9m/s thr=0 ideal=0.17 burning=False err=213.5m
+    burn estStop=1212m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-74.6 faceUpErr=164.6deg aoaCmd=19.9deg
+    vectors retro=(0.642,0.043,-0.765) rawSteer=(0.722,-0.268,-0.638) smooth=(0.727,-0.267,-0.632) velSurf=(-243.854,-16.522,290.886) corrVec=(-57.39,193.558,-69.539)
+  glide alt=45397.3m vel=361.9m/s vv=353.5m/s hv=71.3m/s thr=0 ideal=0.16 burning=False err=204.6m
+    burn estStop=1092.1m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-74.4 faceUpErr=164.4deg aoaCmd=19.9deg
+    vectors retro=(0.634,0.046,-0.772) rawSteer=(0.71,-0.27,-0.651) smooth=(0.716,-0.269,-0.645) velSurf=(-228.317,-16.483,278.628) corrVec=(-52.417,187.352,-63.466)
+  glide alt=46196.9m vel=342.7m/s vv=333.8m/s hv=71.6m/s thr=0 ideal=0.16 burning=False err=197.6m
+    burn estStop=979.2m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-74.1 faceUpErr=164.1deg aoaCmd=19.9deg
+    vectors retro=(0.624,0.048,-0.78) rawSteer=(0.697,-0.27,-0.664) smooth=(0.703,-0.27,-0.658) velSurf=(-212.852,-16.451,266.399) corrVec=(-48.472,182.369,-58.645)
+  glide alt=46950.9m vel=323.6m/s vv=314.2m/s hv=71.9m/s thr=0 ideal=0.16 burning=False err=192.2m
+    burn estStop=873.1m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-73.8 faceUpErr=163.8deg aoaCmd=20deg
+    vectors retro=(0.613,0.051,-0.788) rawSteer=(0.685,-0.27,-0.677) smooth=(0.691,-0.27,-0.671) velSurf=(-197.459,-16.425,254.2) corrVec=(-45.555,178.457,-55.071)
+  glide alt=47659.4m vel=304.7m/s vv=294.6m/s hv=72.2m/s thr=0 ideal=0.16 burning=False err=188.2m
+    burn estStop=773.8m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-73.5 faceUpErr=163.5deg aoaCmd=20deg
+    vectors retro=(0.601,0.054,-0.797) rawSteer=(0.673,-0.269,-0.69) smooth=(0.679,-0.269,-0.683) velSurf=(-182.136,-16.402,242.028) corrVec=(-43.488,175.382,-52.53)
+  glide alt=48322.7m vel=285.8m/s vv=275.1m/s hv=72.5m/s thr=0 ideal=0.15 burning=False err=185.1m
+    burn estStop=681.1m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-73.2 faceUpErr=163.2deg aoaCmd=20deg
+    vectors retro=(0.588,0.057,-0.807) rawSteer=(0.659,-0.267,-0.703) smooth=(0.666,-0.267,-0.696) velSurf=(-166.875,-16.383,229.876) corrVec=(-42.115,172.948,-50.829)
+  glide alt=48940.9m vel=267.1m/s vv=255.7m/s hv=72.8m/s thr=0 ideal=0.15 burning=False err=182.7m
+    burn estStop=595m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-72.8 faceUpErr=162.8deg aoaCmd=20.1deg
+    vectors retro=(0.572,0.061,-0.818) rawSteer=(0.645,-0.264,-0.717) smooth=(0.652,-0.265,-0.71) velSurf=(-151.67,-16.365,217.733) corrVec=(-41.12,170.942,-49.586)
+  glide alt=49513.9m vel=248.6m/s vv=236.3m/s hv=73m/s thr=0 ideal=0.15 burning=False err=180.7m
+    burn estStop=515.3m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-72.4 faceUpErr=162.4deg aoaCmd=20.1deg
+    vectors retro=(0.553,0.066,-0.83) rawSteer=(0.629,-0.261,-0.733) smooth=(0.637,-0.262,-0.725) velSurf=(-136.514,-16.348,205.593) corrVec=(-40.392,169.265,-48.667)
+  glide alt=50042.1m vel=230.2m/s vv=216.9m/s hv=73.2m/s thr=0 ideal=0.15 burning=False err=178.9m
+    burn estStop=441.9m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-71.9 faceUpErr=161.9deg aoaCmd=20.2deg
+    vectors retro=(0.532,0.071,-0.844) rawSteer=(0.609,-0.257,-0.75) smooth=(0.619,-0.259,-0.742) velSurf=(-121.405,-16.331,193.453) corrVec=(-39.735,167.753,-47.834)
+  glide alt=50525.4m vel=212.1m/s vv=197.6m/s hv=73.4m/s thr=0 ideal=0.15 burning=False err=177.6m
+    burn estStop=375m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-71.2 faceUpErr=161.2deg aoaCmd=20.2deg
+    vectors retro=(0.506,0.077,-0.859) rawSteer=(0.587,-0.253,-0.769) smooth=(0.598,-0.255,-0.76) velSurf=(-106.338,-16.316,181.31) corrVec=(-39.288,166.581,-47.257)
+  glide alt=50963.8m vel=194.2m/s vv=178.3m/s hv=73.6m/s thr=0 ideal=0.15 burning=False err=176.4m
+    burn estStop=314.3m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-70.2 faceUpErr=160.2deg aoaCmd=20.3deg
+    vectors retro=(0.476,0.084,-0.876) rawSteer=(0.559,-0.247,-0.792) smooth=(0.572,-0.25,-0.781) velSurf=(-91.314,-16.3,169.163) corrVec=(-38.89,165.589,-46.738)
+  glide alt=51357.6m vel=176.5m/s vv=159m/s hv=73.8m/s thr=0 ideal=0.15 burning=False err=175.4m
+    burn estStop=259.8m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-68.9 faceUpErr=158.9deg aoaCmd=20.3deg
+    vectors retro=(0.438,0.092,-0.894) rawSteer=(0.525,-0.241,-0.817) smooth=(0.541,-0.244,-0.805) velSurf=(-76.328,-16.285,157.009) corrVec=(-38.54,164.737,-46.278)
+  glide alt=51706.7m vel=159.3m/s vv=139.8m/s hv=74m/s thr=0 ideal=0.15 burning=False err=174.6m
+    burn estStop=211.6m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-67.2 faceUpErr=157.2deg aoaCmd=20.4deg
+    vectors retro=(0.392,0.102,-0.914) rawSteer=(0.481,-0.233,-0.845) smooth=(0.502,-0.237,-0.832) velSurf=(-61.379,-16.27,144.847) corrVec=(-38.264,164.052,-45.907)
+  glide alt=52011.3m vel=142.6m/s vv=120.6m/s hv=74.1m/s thr=0 ideal=0.15 burning=False err=174m
+    burn estStop=169.6m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-64.9 faceUpErr=154.9deg aoaCmd=20.4deg
+    vectors retro=(0.333,0.114,-0.936) rawSteer=(0.425,-0.223,-0.877) smooth=(0.453,-0.228,-0.862) velSurf=(-46.464,-16.254,132.674) corrVec=(-38.071,163.51,-45.637)
+  glide alt=52271.4m vel=126.7m/s vv=101.3m/s hv=74.2m/s thr=0 ideal=0.14 burning=False err=173.5m
+    burn estStop=133.8m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-61.8 faceUpErr=151.8deg aoaCmd=20.5deg
+    vectors retro=(0.257,0.128,-0.958) rawSteer=(0.352,-0.211,-0.912) smooth=(0.388,-0.217,-0.896) velSurf=(-31.583,-16.238,120.489) corrVec=(-37.963,163.089,-45.469)
+  glide alt=52487.2m vel=111.8m/s vv=82.1m/s hv=74.3m/s thr=0 ideal=0.14 burning=False err=173.2m
+    burn estStop=104.1m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-57.5 faceUpErr=147.5deg aoaCmd=20.5deg
+    vectors retro=(0.159,0.145,-0.977) rawSteer=(0.252,-0.197,-0.947) smooth=(0.301,-0.204,-0.932) velSurf=(-16.731,-16.222,108.29) corrVec=(-37.942,162.777,-45.405)
+  glide alt=52658.7m vel=98.3m/s vv=63m/s hv=74.4m/s thr=0 ideal=0.14 burning=False err=172.9m
+    burn estStop=80.6m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-51.7 faceUpErr=141.7deg aoaCmd=20.4deg
+    vectors retro=(0.03,0.165,-0.986) rawSteer=(0.116,-0.179,-0.977) smooth=(0.182,-0.188,-0.965) velSurf=(-1.909,-16.206,96.074) corrVec=(-37.92,162.531,-45.342)
+  glide alt=52786.4m vel=87m/s vv=43.8m/s hv=74.4m/s thr=0 ideal=0.14 burning=False err=172.7m
+    burn estStop=63.2m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-43.7 faceUpErr=133.7deg aoaCmd=20.3deg
+    vectors retro=(-0.136,0.186,-0.973) rawSteer=(-0.067,-0.16,-0.985) smooth=(0.022,-0.17,-0.985) velSurf=(12.888,-16.188,83.841) corrVec=(-37.869,162.291,-45.241)
+  glide alt=52870.3m vel=78.9m/s vv=24.6m/s hv=74.5m/s thr=0 ideal=0.14 burning=False err=172.4m
+    burn estStop=51.8m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-33 faceUpErr=123deg aoaCmd=20.1deg
+    vectors retro=(-0.338,0.205,-0.919) rawSteer=(-0.298,-0.141,-0.944) smooth=(-0.188,-0.151,-0.97) velSurf=(27.66,-16.17,71.589) corrVec=(-37.83,162.075,-45.156)
+  glide alt=52911m vel=74.8m/s vv=5.4m/s hv=74.5m/s thr=0 ideal=0.14 burning=False err=172.3m
+    burn estStop=46.6m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-19.1 faceUpErr=109.1deg aoaCmd=20deg
+    vectors retro=(-0.553,0.216,-0.804) rawSteer=(-0.551,-0.131,-0.824) smooth=(-0.434,-0.137,-0.89) velSurf=(42.409,-16.151,59.315) corrVec=(-37.849,161.917,-45.142)
+  glide alt=52908.3m vel=75.5m/s vv=-13.7m/s hv=74.5m/s thr=0 ideal=0.14 burning=False err=172.2m
+    burn estStop=47.5m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=-2.7 faceUpErr=92.7deg aoaCmd=20deg
+    vectors retro=(-0.743,0.214,-0.634) rawSteer=(-0.769,-0.133,-0.626) smooth=(-0.672,-0.134,-0.729) velSurf=(57.139,-16.131,47.019) corrVec=(-37.925,161.786,-45.195)
+  glide alt=52861.4m vel=80.9m/s vv=-32.9m/s hv=74.5m/s thr=0 ideal=0.14 burning=False err=172.2m
+    burn estStop=54.5m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=14.6 faceUpErr=75.4deg aoaCmd=20.2deg
+    vectors retro=(-0.876,0.199,-0.44) rawSteer=(-0.907,-0.147,-0.395) smooth=(-0.848,-0.142,-0.511) velSurf=(71.85,-16.11,34.698) corrVec=(-38.047,161.674,-45.302)
+  glide alt=52769.3m vel=90.1m/s vv=-52.1m/s hv=74.4m/s thr=0 ideal=0.14 burning=False err=172.2m
+    burn estStop=67.6m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=30 faceUpErr=60deg aoaCmd=20.4deg
+    vectors retro=(-0.95,0.179,-0.258) rawSteer=(-0.969,-0.166,-0.183) smooth=(-0.944,-0.159,-0.289) velSurf=(86.545,-16.087,22.35) corrVec=(-38.295,161.64,-45.562)
+  glide alt=52631.6m vel=102.1m/s vv=-71.3m/s hv=74.3m/s thr=0 ideal=0.14 burning=False err=171.9m
+    burn estStop=86.9m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=42.6 faceUpErr=47.4deg aoaCmd=20.5deg
+    vectors retro=(-0.982,0.157,-0.106) rawSteer=(-0.982,-0.186,-0.015) smooth=(-0.979,-0.178,-0.099) velSurf=(101.225,-16.063,9.974) corrVec=(-38.186,161.369,-45.393)
+  glide alt=52448.2m vel=116m/s vv=-90.4m/s hv=74.3m/s thr=0 ideal=0.14 burning=False err=171.7m
+    burn estStop=112.2m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=51.9 faceUpErr=38.1deg aoaCmd=20.5deg
+    vectors retro=(-0.99,0.138,0.014) rawSteer=(-0.973,-0.203,0.113) smooth=(-0.98,-0.195,0.05) velSurf=(115.892,-16.038,-2.432) corrVec=(-38.188,161.133,-45.357)
+  glide alt=52219.5m vel=131.3m/s vv=-109.6m/s hv=74.2m/s thr=0 ideal=0.14 burning=False err=171.4m
+    burn estStop=143.7m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=58.4 faceUpErr=31.6deg aoaCmd=20.5deg
+    vectors retro=(-0.987,0.122,0.107) rawSteer=(-0.954,-0.217,0.209) smooth=(-0.964,-0.21,0.162) velSurf=(130.548,-16.011,-14.87) corrVec=(-38.194,160.862,-45.327)
+  glide alt=51945.8m vel=147.5m/s vv=-128.9m/s hv=74m/s thr=0 ideal=0.15 burning=False err=171.1m
+    burn estStop=181.3m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=62.8 faceUpErr=27.2deg aoaCmd=20.4deg
+    vectors retro=(-0.978,0.108,0.18) rawSteer=(-0.932,-0.228,0.282) smooth=(-0.943,-0.223,0.246) velSurf=(145.195,-15.982,-27.34) corrVec=(-38.2,160.544,-45.297)
+  glide alt=51627.2m vel=164.3m/s vv=-148.1m/s hv=73.9m/s thr=0 ideal=0.15 burning=False err=170.8m
+    burn estStop=225.1m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=65.8 faceUpErr=24.2deg aoaCmd=20.4deg
+    vectors retro=(-0.967,0.097,0.237) rawSteer=(-0.911,-0.237,0.338) smooth=(-0.922,-0.233,0.311) velSurf=(159.834,-15.951,-39.846) corrVec=(-38.189,160.168,-45.246)
+  glide alt=51263.9m vel=181.6m/s vv=-167.3m/s hv=73.7m/s thr=0 ideal=0.15 burning=False err=170.4m
+    burn estStop=275.1m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=68 faceUpErr=22deg aoaCmd=20.3deg
+    vectors retro=(-0.955,0.088,0.284) rawSteer=(-0.891,-0.245,0.383) smooth=(-0.901,-0.241,0.361) velSurf=(174.468,-15.918,-52.388) corrVec=(-38.21,159.732,-45.235)
+  glide alt=50855.8m vel=199.3m/s vv=-186.6m/s hv=73.5m/s thr=0 ideal=0.15 burning=False err=169.7m
+    burn estStop=331.3m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=69.5 faceUpErr=20.5deg aoaCmd=20.2deg
+    vectors retro=(-0.944,0.08,0.322) rawSteer=(-0.873,-0.251,0.418) smooth=(-0.882,-0.248,0.401) velSurf=(189.098,-15.882,-64.968) corrVec=(-38.101,159.146,-45.068)
+  glide alt=50402.9m vel=217.3m/s vv=-205.9m/s hv=73.3m/s thr=0 ideal=0.15 burning=False err=169m
+    burn estStop=393.8m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=70.6 faceUpErr=19.4deg aoaCmd=20.2deg
+    vectors retro=(-0.933,0.073,0.353) rawSteer=(-0.857,-0.256,0.447) smooth=(-0.865,-0.254,0.433) velSurf=(203.726,-15.844,-77.588) corrVec=(-37.947,158.437,-44.849)
+  glide alt=49905.1m vel=235.5m/s vv=-225.2m/s hv=73.1m/s thr=0 ideal=0.15 burning=False err=168.1m
+    burn estStop=462.5m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=71.4 faceUpErr=18.6deg aoaCmd=20.1deg
+    vectors retro=(-0.923,0.067,0.379) rawSteer=(-0.843,-0.261,0.471) smooth=(-0.85,-0.258,0.46) velSurf=(218.353,-15.803,-90.249) corrVec=(-37.781,157.625,-44.615)
+  glide alt=49362.5m vel=253.9m/s vv=-244.6m/s hv=72.8m/s thr=0 ideal=0.15 burning=False err=167.2m
+    burn estStop=537.6m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=72 faceUpErr=18deg aoaCmd=20.1deg
+    vectors retro=(-0.914,0.062,0.402) rawSteer=(-0.83,-0.264,0.492) smooth=(-0.836,-0.262,0.482) velSurf=(232.982,-15.759,-102.953) corrVec=(-37.644,156.686,-44.417)
+  glide alt=48774.9m vel=272.5m/s vv=-264m/s hv=72.5m/s thr=0 ideal=0.15 burning=False err=166.1m
+    burn estStop=619m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=72.5 faceUpErr=17.5deg aoaCmd=20deg
+    vectors retro=(-0.905,0.058,0.421) rawSteer=(-0.818,-0.268,0.509) smooth=(-0.824,-0.266,0.501) velSurf=(247.613,-15.711,-115.7) corrVec=(-37.474,155.633,-44.181)
+  glide alt=48142.3m vel=291.2m/s vv=-283.4m/s hv=72.2m/s thr=0 ideal=0.16 burning=False err=164.9m
+    burn estStop=706.8m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=72.8 faceUpErr=17.2deg aoaCmd=20deg
+    vectors retro=(-0.897,0.054,0.438) rawSteer=(-0.807,-0.271,0.525) smooth=(-0.813,-0.269,0.517) velSurf=(262.246,-15.661,-128.493) corrVec=(-37.296,154.493,-43.935)
+  glide alt=47464.6m vel=310m/s vv=-302.8m/s hv=71.9m/s thr=0 ideal=0.16 burning=False err=163.5m
+    burn estStop=801m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=73.1 faceUpErr=16.9deg aoaCmd=20deg
+    vectors retro=(-0.89,0.05,0.453) rawSteer=(-0.798,-0.273,0.538) smooth=(-0.802,-0.272,0.531) velSurf=(276.879,-15.606,-141.329) corrVec=(-37.012,153.162,-43.565)
+  glide alt=46741.8m vel=328.8m/s vv=-322.3m/s hv=71.6m/s thr=0 ideal=0.16 burning=False err=161.6m
+    burn estStop=901.6m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=73.2 faceUpErr=16.8deg aoaCmd=19.9deg
+    vectors retro=(-0.883,0.047,0.466) rawSteer=(-0.789,-0.276,0.549) smooth=(-0.794,-0.274,0.543) velSurf=(291.504,-15.545,-154.207) corrVec=(-36.47,151.514,-42.889)
+  glide alt=45973.9m vel=347.8m/s vv=-341.8m/s hv=71.2m/s thr=0 ideal=0.16 burning=False err=159.4m
+    burn estStop=1008.5m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=73.4 faceUpErr=16.6deg aoaCmd=19.9deg
+    vectors retro=(-0.877,0.045,0.478) rawSteer=(-0.782,-0.278,0.558) smooth=(-0.786,-0.277,0.554) velSurf=(306.116,-15.477,-167.123) corrVec=(-35.761,149.524,-42.018)
+  glide alt=45160.7m vel=366.8m/s vv=-361.3m/s hv=70.8m/s thr=0 ideal=0.16 burning=False err=156.7m
+    burn estStop=1121.8m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=73.4 faceUpErr=16.6deg aoaCmd=19.9deg
+    vectors retro=(-0.872,0.042,0.488) rawSteer=(-0.775,-0.28,0.567) smooth=(-0.778,-0.279,0.562) velSurf=(320.716,-15.4,-180.078) corrVec=(-34.92,147.139,-40.992)
+  glide alt=44302.2m vel=385.9m/s vv=-380.8m/s hv=70.3m/s thr=0 ideal=0.17 burning=False err=153.5m
+    burn estStop=1241.6m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=73.4 faceUpErr=16.6deg aoaCmd=19.8deg
+    vectors retro=(-0.866,0.04,0.498) rawSteer=(-0.769,-0.282,0.574) smooth=(-0.772,-0.281,0.57) velSurf=(335.311,-15.313,-193.077) corrVec=(-33.948,144.298,-39.815)
+  glide alt=43398.5m vel=405.1m/s vv=-400.3m/s hv=69.9m/s thr=0 ideal=0.17 burning=False err=149.8m
+    burn estStop=1367.9m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=73.4 faceUpErr=16.6deg aoaCmd=19.8deg
+    vectors retro=(-0.861,0.038,0.507) rawSteer=(-0.763,-0.284,0.581) smooth=(-0.766,-0.283,0.577) velSurf=(349.902,-15.214,-206.12) corrVec=(-32.905,140.917,-38.556)
+  glide alt=42449.3m vel=424.3m/s vv=-419.9m/s hv=69.4m/s thr=0 ideal=0.17 burning=False err=145.6m
+    burn estStop=1500.8m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=73.4 faceUpErr=16.6deg aoaCmd=19.8deg
+    vectors retro=(-0.857,0.036,0.515) rawSteer=(-0.757,-0.285,0.587) smooth=(-0.76,-0.285,0.584) velSurf=(364.49,-15.101,-219.209) corrVec=(-31.999,137.034,-37.463)
+  glide alt=41454.7m vel=443.5m/s vv=-439.5m/s hv=68.8m/s thr=0 ideal=0.18 burning=False err=140m
+    burn estStop=1640.2m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=73.4 faceUpErr=16.6deg aoaCmd=19.8deg
+    vectors retro=(-0.852,0.034,0.522) rawSteer=(-0.753,-0.287,0.592) smooth=(-0.755,-0.286,0.589) velSurf=(379.075,-14.97,-232.345) corrVec=(-30.38,132.012,-35.532)
+  glide alt=40414.7m vel=462.9m/s vv=-459.1m/s hv=68.3m/s thr=0 ideal=0.18 burning=False err=133.8m
+    burn estStop=1786.1m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=73.5 faceUpErr=16.5deg aoaCmd=18.9deg
+    vectors retro=(-0.848,0.032,0.529) rawSteer=(-0.754,-0.276,0.596) smooth=(-0.754,-0.28,0.594) velSurf=(393.655,-14.817,-245.528) corrVec=(-28.883,126.22,-33.751)
+  glide alt=39329.1m vel=482.2m/s vv=-478.8m/s hv=67.7m/s thr=0 ideal=0.19 burning=False err=126.6m
+    burn estStop=1938.7m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=74.1 faceUpErr=15.9deg aoaCmd=17.9deg
+    vectors retro=(-0.844,0.03,0.535) rawSteer=(-0.757,-0.262,0.599) smooth=(-0.756,-0.268,0.597) velSurf=(408.224,-14.641,-258.753) corrVec=(-27.241,119.499,-31.804)
+  glide alt=38197.9m vel=501.6m/s vv=-498.4m/s hv=67m/s thr=0 ideal=0.19 burning=False err=118.5m
+    burn estStop=2097.7m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=75 faceUpErr=15deg aoaCmd=16.8deg
+    vectors retro=(-0.841,0.029,0.54) rawSteer=(-0.76,-0.245,0.601) smooth=(-0.759,-0.253,0.6) velSurf=(422.772,-14.441,-272.016) corrVec=(-25.458,111.874,-29.698)
+  glide alt=37062.4m vel=520.3m/s vv=-517.1m/s hv=66.4m/s thr=0 ideal=0.2 burning=False err=110.1m
+    burn estStop=2257.3m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=75.9 faceUpErr=14.1deg aoaCmd=15.6deg
+    vectors retro=(-0.838,0.027,0.546) rawSteer=(-0.764,-0.228,0.604) smooth=(-0.762,-0.236,0.603) velSurf=(436.586,-14.223,-284.665) corrVec=(-23.882,103.79,-27.842)
+  glide alt=35858m vel=539.5m/s vv=-536.5m/s hv=65.7m/s thr=0 ideal=0.2 burning=False err=100.2m
+    burn estStop=2426.4m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=77.2 faceUpErr=12.8deg aoaCmd=14.3deg
+    vectors retro=(-0.834,0.026,0.551) rawSteer=(-0.768,-0.207,0.605) smooth=(-0.767,-0.215,0.605) velSurf=(450.82,-13.969,-297.761) corrVec=(-21.845,94.461,-25.448)
+  glide alt=34654m vel=557.9m/s vv=-554.4m/s hv=65m/s thr=0 ideal=0.21 burning=False err=90.1m
+    burn estStop=2595.1m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=78.6 faceUpErr=11.4deg aoaCmd=12.8deg
+    vectors retro=(-0.831,0.025,0.555) rawSteer=(-0.774,-0.186,0.606) smooth=(-0.773,-0.189,0.606) velSurf=(464.042,-13.705,-309.989) corrVec=(-19.603,84.919,-22.819)
+  glide alt=33483.2m vel=575.2m/s vv=-571.9m/s hv=64.3m/s thr=0 ideal=0.21 burning=False err=80m
+    burn estStop=2758.8m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=80 faceUpErr=10deg aoaCmd=11.4deg
+    vectors retro=(-0.829,0.023,0.559) rawSteer=(-0.779,-0.164,0.605) smooth=(-0.779,-0.167,0.605) velSurf=(476.89,-13.432,-321.931) corrVec=(-17.303,75.5,-20.126)
+  glide alt=32276m vel=592.4m/s vv=-589.4m/s hv=63.5m/s thr=0 ideal=0.22 burning=False err=69.7m
+    burn estStop=2926.7m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=81.2 faceUpErr=8.8deg aoaCmd=10deg
+    vectors retro=(-0.826,0.022,0.563) rawSteer=(-0.785,-0.142,0.603) smooth=(-0.784,-0.145,0.603) velSurf=(489.65,-13.139,-333.852) corrVec=(-14.87,65.85,-17.279)
+  glide alt=31032.7m vel=609.6m/s vv=-606.7m/s hv=62.7m/s thr=0 ideal=0.23 burning=False err=59.3m
+    burn estStop=3098.5m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=82.4 faceUpErr=7.6deg aoaCmd=8.5deg
+    vectors retro=(-0.824,0.021,0.567) rawSteer=(-0.79,-0.119,0.601) smooth=(-0.79,-0.122,0.601) velSurf=(502.289,-12.832,-345.728) corrVec=(-12.382,56.21,-14.372)
+  glide alt=29753.5m vel=626.5m/s vv=-623.8m/s hv=61.8m/s thr=0 ideal=0.24 burning=False err=49.2m
+    burn estStop=3273.4m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=83.4 faceUpErr=6.6deg aoaCmd=7deg
+    vectors retro=(-0.821,0.02,0.57) rawSteer=(-0.796,-0.097,0.598) smooth=(-0.795,-0.1,0.598) velSurf=(514.756,-12.514,-357.519) corrVec=(-9.859,46.82,-11.427)
+  glide alt=28438.9m vel=643.2m/s vv=-640.6m/s hv=61m/s thr=0 ideal=0.25 burning=False err=39.6m
+    burn estStop=3450.3m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=84.3 faceUpErr=5.7deg aoaCmd=5.7deg
+    vectors retro=(-0.819,0.019,0.574) rawSteer=(-0.8,-0.076,0.595) smooth=(-0.8,-0.079,0.595) velSurf=(526.976,-12.192,-369.165) corrVec=(-7.377,37.933,-8.532)
+  glide alt=27089.7m vel=659.5m/s vv=-657.1m/s hv=60m/s thr=0 ideal=0.26 burning=False err=30.7m
+    burn estStop=3627.6m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=84.9 faceUpErr=5.1deg aoaCmd=4.4deg
+    vectors retro=(-0.817,0.018,0.577) rawSteer=(-0.805,-0.057,0.591) smooth=(-0.804,-0.059,0.592) velSurf=(538.853,-11.87,-380.592) corrVec=(-4.93,29.816,-5.678)
+  glide alt=25706.9m vel=675.2m/s vv=-673m/s hv=59m/s thr=0 ideal=0.27 burning=False err=23m
+    burn estStop=3803.2m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=85.2 faceUpErr=4.8deg aoaCmd=3.3deg
+    vectors retro=(-0.815,0.017,0.58) rawSteer=(-0.808,-0.04,0.588) smooth=(-0.808,-0.042,0.588) velSurf=(550.264,-11.557,-391.701) corrVec=(-2.687,22.686,-3.063)
+  glide alt=24291.7m vel=690.2m/s vv=-688.1m/s hv=58m/s thr=0 ideal=0.29 burning=False err=16.7m
+    burn estStop=3974.4m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=85.3 faceUpErr=4.7deg aoaCmd=2.4deg
+    vectors retro=(-0.813,0.016,0.583) rawSteer=(-0.811,-0.025,0.584) smooth=(-0.811,-0.027,0.585) velSurf=(561.051,-11.256,-402.365) corrVec=(-0.631,16.665,-0.666)
+  glide alt=22846.1m vel=704.2m/s vv=-702.1m/s hv=56.9m/s thr=0 ideal=0.3 burning=False err=11.9m
+    burn estStop=4137.3m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=85.2 faceUpErr=4.8deg aoaCmd=1.7deg
+    vectors retro=(-0.811,0.016,0.585) rawSteer=(-0.813,-0.014,0.582) smooth=(-0.813,-0.015,0.582) velSurf=(570.98,-10.967,-412.399) corrVec=(1.146,11.739,1.403)
+  glide alt=21372.7m vel=716.6m/s vv=-714.6m/s hv=55.7m/s thr=0 ideal=0.32 burning=False err=8.5m
+    burn estStop=4285.7m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=85.2 faceUpErr=4.8deg aoaCmd=0deg
+    vectors retro=(-0.809,0.015,0.588) rawSteer=(-0.809,0.015,0.588) smooth=(-0.809,0.014,0.587) velSurf=(579.682,-10.675,-421.512) corrVec=(2.518,7.544,2.999)
+  glide alt=19875.2m vel=727.1m/s vv=-725.2m/s hv=54.3m/s thr=0 ideal=0.34 burning=False err=10.7m
+    burn estStop=4413.4m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=85.5 faceUpErr=4.5deg aoaCmd=1.5deg
+    vectors retro=(-0.807,0.014,0.591) rawSteer=(-0.817,-0.005,0.576) smooth=(-0.815,-0.001,0.579) velSurf=(586.768,-10.536,-429.491) corrVec=(4.671,7.889,5.533)
+  glide alt=18358.7m vel=734.3m/s vv=-732.4m/s hv=52.8m/s thr=0 ideal=0.36 burning=False err=10.3m
+    burn estStop=4503.3m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=84.7 faceUpErr=5.3deg aoaCmd=1.5deg
+    vectors retro=(-0.805,0.014,0.593) rawSteer=(-0.818,0.001,0.575) smooth=(-0.818,-0.001,0.575) velSurf=(591.255,-10.223,-435.408) corrVec=(5.686,5.274,6.712)
+  glide alt=16831.4m vel=737.2m/s vv=-735.5m/s hv=51.1m/s thr=0 ideal=0.38 burning=False err=10.4m
+    burn estStop=4543m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=85.8 faceUpErr=4.2deg aoaCmd=1.5deg
+    vectors retro=(-0.804,0.013,0.595) rawSteer=(-0.818,0.006,0.575) smooth=(-0.81,0.01,0.586) velSurf=(592.4,-9.873,-438.776) corrVec=(6.49,2.84,7.644)
+  glide alt=15302.8m vel=734.7m/s vv=-732.9m/s hv=49.1m/s thr=0 ideal=0.4 burning=False err=11.9m
+    burn estStop=4515.4m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=84.7 faceUpErr=5.3deg aoaCmd=1.7deg
+    vectors retro=(-0.802,0.013,0.597) rawSteer=(-0.819,0.01,0.573) smooth=(-0.82,0.009,0.572) velSurf=(589.072,-9.488,-438.734) corrVec=(7.682,1.174,9.034)
+  glide alt=13787.4m vel=724.6m/s vv=-722.8m/s hv=46.9m/s thr=0 ideal=0.42 burning=False err=9.3m
+    burn estStop=4396.9m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=85.4 faceUpErr=4.6deg aoaCmd=0deg
+    vectors retro=(-0.801,0.012,0.599) rawSteer=(-0.801,0.012,0.599) smooth=(-0.801,0.012,0.598) velSurf=(579.911,-9.014,-433.893) corrVec=(5.996,-0.727,7.041)
+  glide alt=12300.3m vel=706.9m/s vv=-705.1m/s hv=44m/s thr=0 ideal=0.44 burning=False err=12.5m
+    burn estStop=4190.7m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=85.3 faceUpErr=4.7deg aoaCmd=1.8deg
+    vectors retro=(-0.799,0.012,0.601) rawSteer=(-0.817,0.017,0.576) smooth=(-0.817,0.017,0.576) velSurf=(564.531,-8.506,-424.626) corrVec=(7.994,-1.859,9.379)
+  glide alt=10859.6m vel=679.8m/s vv=-677.9m/s hv=41.2m/s thr=0 ideal=0.46 burning=False err=9.9m
+    burn estStop=3882.5m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=85.4 faceUpErr=4.6deg aoaCmd=0deg
+    vectors retro=(-0.798,0.012,0.603) rawSteer=(-0.798,0.012,0.603) smooth=(-0.81,0.016,0.586) velSurf=(541.974,-7.977,-409.263) corrVec=(6.323,-1.996,7.414)
+  glide alt=9483.9m vel=644.5m/s vv=-642.6m/s hv=37.7m/s thr=0 ideal=0.47 burning=False err=10.4m
+    burn estStop=3497.2m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=86.1 faceUpErr=3.9deg aoaCmd=1.5deg
+    vectors retro=(-0.797,0.011,0.604) rawSteer=(-0.812,0.017,0.584) smooth=(-0.805,0.015,0.593) velSurf=(512.866,-7.367,-388.969) corrVec=(6.597,-2.27,7.732)
+  glide alt=8190.4m vel=600.3m/s vv=-598.4m/s hv=34m/s thr=0 ideal=0.47 burning=False err=11.5m
+    burn estStop=3041.8m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=85.7 faceUpErr=4.3deg aoaCmd=1.6deg
+    vectors retro=(-0.796,0.011,0.606) rawSteer=(-0.812,0.017,0.583) smooth=(-0.812,0.017,0.583) velSurf=(476.815,-6.715,-363.117) corrVec=(7.29,-2.282,8.544)
+  glide alt=6933.9m vel=549.3m/s vv=-547.4m/s hv=30.4m/s thr=0 ideal=0.47 burning=False err=9.7m
+    burn estStop=2553.6m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=85.6 faceUpErr=4.4deg aoaCmd=0deg
+    vectors retro=(-0.795,0.011,0.607) rawSteer=(-0.795,0.011,0.607) smooth=(-0.802,0.013,0.598) velSurf=(435.605,-6.059,-332.79) corrVec=(6.204,-1.767,7.269)
+  glide alt=5850.7m vel=493.4m/s vv=-491.6m/s hv=26.4m/s thr=0 ideal=0.45 burning=False err=9.8m
+    burn estStop=2066.6m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=86.2 faceUpErr=3.8deg aoaCmd=0deg
+    vectors retro=(-0.793,0.011,0.608) rawSteer=(-0.793,0.011,0.608) smooth=(-0.794,0.011,0.608) velSurf=(390.604,-5.325,-299.552) corrVec=(6.286,-1.661,7.365)
+  glide alt=4887m vel=434.1m/s vv=-432.3m/s hv=22.4m/s thr=0 ideal=0.43 burning=False err=11.7m
+    burn estStop=1604.9m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=85.9 faceUpErr=4.1deg aoaCmd=1.7deg
+    vectors retro=(-0.792,0.011,0.61) rawSteer=(-0.809,0.016,0.587) smooth=(-0.809,0.016,0.587) velSurf=(342.93,-4.545,-264.093) corrVec=(7.477,-2.155,8.758)
+  glide alt=4061.8m vel=358.4m/s vv=-356.5m/s hv=17.7m/s thr=0 ideal=0.38 burning=False err=16.6m
+    burn estStop=1097.4m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=85.9 faceUpErr=4.1deg aoaCmd=2.4deg
+    vectors retro=(-0.791,0.01,0.612) rawSteer=(-0.815,0.019,0.579) smooth=(-0.814,0.018,0.581) velSurf=(282.269,-3.6,-218.385) corrVec=(10.578,-3.437,12.386)
+  glide alt=3373.9m vel=314.5m/s vv=-313.7m/s hv=15.2m/s thr=0 ideal=0.36 burning=False err=14.3m
+    burn estStop=847.7m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=84.9 faceUpErr=5.1deg aoaCmd=2deg
+    vectors retro=(-0.79,0.01,0.613) rawSteer=(-0.811,0.018,0.585) smooth=(-0.813,0.019,0.583) velSurf=(248.187,-3.096,-192.467) corrVec=(9.08,-3.22,10.629)
+  glide alt=2736.8m vel=299.9m/s vv=-299.3m/s hv=14.6m/s thr=0 ideal=0.39 burning=False err=4.5m
+    burn estStop=773.5m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=85.2 faceUpErr=4.8deg aoaCmd=0deg
+    vectors retro=(-0.79,0.01,0.612) rawSteer=(-0.79,0.01,0.612) smooth=(-0.796,0.013,0.605) velSurf=(236.863,-2.987,-183.53) corrVec=(2.833,-1.277,3.315)
+  glide alt=2120.8m vel=289.9m/s vv=-289.4m/s hv=13.8m/s thr=0 ideal=0.44 burning=False err=0.8m
+    burn estStop=725.8m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=86.2 faceUpErr=3.8deg aoaCmd=0deg
+    vectors retro=(-0.79,0.01,0.613) rawSteer=(-0.79,0.01,0.613) smooth=(-0.79,0.01,0.613) velSurf=(228.796,-2.82,-177.739) corrVec=(-0.484,-0.205,-0.569)
+  glide alt=1525.7m vel=281.7m/s vv=-281.3m/s hv=12.7m/s thr=0 ideal=0.54 burning=False err=2.7m
+    burn estStop=688.5m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=87 faceUpErr=3deg aoaCmd=0.4deg
+    vectors retro=(-0.788,0.009,0.615) rawSteer=(-0.784,0.009,0.621) smooth=(-0.784,0.009,0.62) velSurf=(221.887,-2.577,-173.306) corrVec=(-1.726,0.116,-2.023)
+  glide alt=947.9m vel=274.6m/s vv=-274.3m/s hv=11.3m/s thr=0 ideal=0.75 burning=False err=2.7m
+    burn estStop=657.9m lead=1.15 targetDown=0m/s hoverThr=0
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=87.7 faceUpErr=2.3deg aoaCmd=0.4deg
+    vectors retro=(-0.786,0.008,0.618) rawSteer=(-0.782,0.008,0.624) smooth=(-0.782,0.008,0.623) velSurf=(215.681,-2.311,-169.781) corrVec=(-1.735,0.186,-2.033)
+  glide alt=435.7m vel=188.7m/s vv=-186m/s hv=6.9m/s thr=1 ideal=7.64 burning=True err=1.8m
+    burn estStop=301.9m lead=1.15 targetDown=22m/s hoverThr=0.14
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=88 faceUpErr=2deg aoaCmd=0deg
+    vectors retro=(-0.783,0.007,0.622) rawSteer=(-0.783,0.007,0.622) smooth=(-0.783,0.008,0.621) velSurf=(145.749,-1.362,-115.722) corrVec=(-1.173,-0.114,-1.376)
+  glide alt=180.2m vel=58.9m/s vv=-56.4m/s hv=2m/s thr=1 ideal=2.14 burning=True err=1.1m
+    burn estStop=27.9m lead=1.15 targetDown=14.4m/s hoverThr=0.14
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=88.5 faceUpErr=1.5deg aoaCmd=0deg
+    vectors retro=(-0.782,0.005,0.624) rawSteer=(-0.782,0.005,0.624) smooth=(-0.782,0.006,0.624) velSurf=(44.103,-0.305,-35.175) corrVec=(-0.578,-0.667,-0.681)
+  glide alt=137m vel=11.2m/s vv=-11.2m/s hv=0.4m/s thr=0.15 ideal=0.15 burning=True err=2m
+    burn estStop=1m lead=1.15 targetDown=11m/s hoverThr=0.13
+    corr burnTilt=0 corrRate=-0.5m/s
+    attitude hdg=0 pitch=89.7 faceUpErr=0.3deg aoaCmd=2deg
+    vectors retro=(-0.783,-0.005,0.622) rawSteer=(-0.761,-0.004,0.649) smooth=(-0.761,-0.004,0.649) velSurf=(8.748,0.049,-6.934) corrVec=(0.521,-1.838,0.601)
+  glide alt=115m vel=11.4m/s vv=-11.4m/s hv=0.5m/s thr=0.13 ideal=0.13 burning=True err=1.8m
+    burn estStop=1m lead=1.15 targetDown=11.5m/s hoverThr=0.13
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=89.7 faceUpErr=0.3deg aoaCmd=2.6deg
+    vectors retro=(-0.789,-0.002,0.614) rawSteer=(-0.761,-0.004,0.649) smooth=(-0.761,-0.004,0.649) velSurf=(9.008,0.018,-7.014) corrVec=(-0.317,-1.683,-0.381)
+  glide alt=93.1m vel=9.6m/s vv=-9.5m/s hv=0.6m/s thr=0.14 ideal=0.14 burning=True err=2.2m
+    burn estStop=0.7m lead=1.15 targetDown=9.3m/s hoverThr=0.13
+    corr burnTilt=0 corrRate=0.4m/s
+    attitude hdg=0 pitch=89.8 faceUpErr=0.2deg aoaCmd=3.3deg
+    vectors retro=(-0.797,0.001,0.604) rawSteer=(-0.761,-0.004,0.649) smooth=(-0.761,-0.004,0.649) velSurf=(7.597,-0.013,-5.759) corrVec=(-0.995,-1.536,-1.175)
+  glide alt=75.5m vel=7.8m/s vv=-7.7m/s hv=0.6m/s thr=0.14 ideal=0.14 burning=True err=3m
+    burn estStop=0.5m lead=1.15 targetDown=7.5m/s hoverThr=0.13
+    corr burnTilt=0 corrRate=-0.2m/s
+    attitude hdg=0 pitch=89.8 faceUpErr=0.2deg aoaCmd=4.2deg
+    vectors retro=(-0.806,0.004,0.592) rawSteer=(-0.761,-0.004,0.649) smooth=(-0.761,-0.004,0.649) velSurf=(6.238,-0.035,-4.574) corrVec=(-1.691,-1.387,-1.99)
+  glide alt=61.2m vel=6.3m/s vv=-6.3m/s hv=0.6m/s thr=0.14 ideal=0.14 burning=True err=3.8m
+    burn estStop=0.3m lead=1.15 targetDown=6.1m/s hoverThr=0.13
+    corr burnTilt=0 corrRate=-0.1m/s
+    attitude hdg=0 pitch=89.9 faceUpErr=0.1deg aoaCmd=5.2deg
+    vectors retro=(-0.816,0.008,0.578) rawSteer=(-0.761,-0.004,0.649) smooth=(-0.761,-0.004,0.649) velSurf=(5.127,-0.049,-3.625) corrVec=(-2.341,-1.238,-2.75)
+  glide alt=49.4m vel=5.1m/s vv=-5m/s hv=0.6m/s thr=0.14 ideal=0.14 burning=True err=4.8m
+    burn estStop=0.2m lead=1.15 targetDown=4.9m/s hoverThr=0.13
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=89.9 faceUpErr=0.1deg aoaCmd=6.4deg
+    vectors retro=(-0.828,0.011,0.561) rawSteer=(-0.761,-0.004,0.649) smooth=(-0.761,-0.004,0.649) velSurf=(4.204,-0.058,-2.85) corrVec=(-3.039,-1.089,-3.567)
+  glide alt=39.9m vel=4.1m/s vv=-4.1m/s hv=0.6m/s thr=0.19 ideal=0.19 burning=True err=5.8m
+    burn estStop=0.1m lead=1.15 targetDown=2.8m/s hoverThr=0.13
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=90 faceUpErr=0deg aoaCmd=7.7deg
+    vectors retro=(-0.84,0.015,0.543) rawSteer=(-0.761,-0.004,0.649) smooth=(-0.761,-0.004,0.649) velSurf=(3.454,-0.063,-2.23) corrVec=(-3.684,-0.94,-4.323)
+  glide alt=34.1m vel=2.5m/s vv=-2.4m/s hv=0.5m/s thr=0.13 ideal=0.13 burning=True err=6.8m
+    burn estStop=0m lead=1.15 targetDown=2.4m/s hoverThr=0.13
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=90 faceUpErr=0deg aoaCmd=12.6deg
+    vectors retro=(-0.883,0.028,0.469) rawSteer=(-0.761,-0.004,0.649) smooth=(-0.761,-0.004,0.649) velSurf=(2.185,-0.07,-1.16) corrVec=(-4.395,-0.779,-5.156)
+  glide alt=29.5m vel=2.2m/s vv=-2.1m/s hv=0.5m/s thr=0.13 ideal=0.13 burning=True err=7.8m
+    burn estStop=0m lead=1.15 targetDown=2.1m/s hoverThr=0.13
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=90 faceUpErr=0deg aoaCmd=14.3deg
+    vectors retro=(-0.895,0.033,0.444) rawSteer=(-0.761,-0.004,0.649) smooth=(-0.761,-0.004,0.649) velSurf=(1.924,-0.071,-0.953) corrVec=(-5.045,-0.626,-5.916)
+  glide alt=25.4m vel=1.9m/s vv=-1.8m/s hv=0.5m/s thr=0.13 ideal=0.13 burning=True err=8.8m
+    burn estStop=0m lead=1.15 targetDown=1.8m/s hoverThr=0.13
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=90 faceUpErr=0deg aoaCmd=16.1deg
+    vectors retro=(-0.909,0.038,0.415) rawSteer=(-0.761,-0.004,0.649) smooth=(-0.761,-0.004,0.649) velSurf=(1.698,-0.071,-0.775) corrVec=(-5.714,-0.474,-6.699)
+  glide alt=22m vel=1.6m/s vv=-1.5m/s hv=0.5m/s thr=0.13 ideal=0.13 burning=True err=9.8m
+    burn estStop=0m lead=1.15 targetDown=1.5m/s hoverThr=0.13
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=90 faceUpErr=0deg aoaCmd=18.2deg
+    vectors retro=(-0.923,0.043,0.382) rawSteer=(-0.761,-0.004,0.649) smooth=(-0.761,-0.004,0.649) velSurf=(1.504,-0.071,-0.621) corrVec=(-6.354,-0.323,-7.449)
+  glide alt=19m vel=1.4m/s vv=-1.3m/s hv=0.5m/s thr=0.12 ideal=0.12 burning=True err=10.7m
+    burn estStop=0m lead=1.15 targetDown=1.3m/s hoverThr=0.12
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=90 faceUpErr=0deg aoaCmd=20.6deg
+    vectors retro=(-0.938,0.05,0.344) rawSteer=(-0.761,-0.004,0.649) smooth=(-0.761,-0.004,0.649) velSurf=(1.336,-0.071,-0.489) corrVec=(-6.968,-0.172,-8.167)
+  glide alt=16.4m vel=1.3m/s vv=-1.1m/s hv=0.5m/s thr=0.12 ideal=0.12 burning=True err=11.8m
+    burn estStop=0m lead=1.15 targetDown=1.1m/s hoverThr=0.12
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=90 faceUpErr=0deg aoaCmd=23.2deg
+    vectors retro=(-0.952,0.057,0.301) rawSteer=(-0.761,-0.004,0.649) smooth=(-0.761,-0.004,0.649) velSurf=(1.191,-0.071,-0.376) corrVec=(-7.647,-0.016,-8.962)
+  glide alt=14.1m vel=1.1m/s vv=-1m/s hv=0.5m/s thr=0.12 ideal=0.12 burning=True err=12.8m
+    burn estStop=0m lead=1.15 targetDown=1m/s hoverThr=0.12
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=90 faceUpErr=0deg aoaCmd=26.1deg
+    vectors retro=(-0.966,0.064,0.252) rawSteer=(-0.761,-0.004,0.649) smooth=(-0.761,-0.004,0.649) velSurf=(1.066,-0.07,-0.278) corrVec=(-8.285,0.136,-9.709)
+  glide alt=12.2m vel=1m/s vv=-0.9m/s hv=0.5m/s thr=0.12 ideal=0.12 burning=True err=13.7m
+    burn estStop=0m lead=1.15 targetDown=0.9m/s hoverThr=0.12
+    corr burnTilt=0 corrRate=0m/s
+    attitude hdg=0 pitch=90 faceUpErr=0deg aoaCmd=29.3deg
+    vectors retro=(-0.978,0.071,0.198) rawSteer=(-0.761,-0.004,0.649) smooth=(-0.761,-0.004,0.649) velSurf=(0.958,-0.07,-0.194) corrVec=(-8.921,0.286,-10.453)
+--- Touchdown ---
