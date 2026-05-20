@@ -16,7 +16,7 @@ global function updateDragCoeff {
         set lastVes to ship:velocity:surface.
     }
 
-    local thrustVec to ship:facing:forevector * ship:maxthrust * throttle * 1000.
+    local thrustVec to ship:facing:forevector * ship:maxthrust * throttle.
     local gravVec to ship:up:vector * -1 * g * ship:mass.
     local realForceOnShip to myAcc * ship:mass.
 

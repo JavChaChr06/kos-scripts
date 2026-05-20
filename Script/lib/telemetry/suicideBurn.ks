@@ -2,40 +2,6 @@ runOncePath("0:/lib/telemetry/drag.ks").
 runOncePath("0:/lib/telemetry/isp.ks").
 
 global g0 to 9.80665.
-global cachedThrust to 0.
-global cachedEffIsp to 0.
-global cachedIspSum to 0.
-global engineCacheTime to -1.
-set cachedIspSum to cachedIspSum.
-
-function cacheEngines {
-    parameter currentTime is 0.
-    
-    if engineCacheTime = currentTime { return. }
-    set engineCacheTime to currentTime.
-    
-    local thrustSum to 0.
-    local ispSum to 0.
-    list engines in engineList.
-    
-    for eng in engineList {
-        if eng:availablethrust > 0 {
-            set thrustSum to thrustSum + eng:availablethrust.
-            if eng:isp > 0 {
-                set ispSum to ispSum + eng:availablethrust / eng:isp.
-            }
-        }
-    }
-    
-    set cachedThrust to thrustSum.
-    set cachedIspSum to ispSum.
-    
-    if thrustSum = 0 or ispSum = 0 {
-        set cachedEffIsp to 0.
-    } else {
-        set cachedEffIsp to thrustSum / ispSum.
-    }
-}
 
 function predictStopAltitude {
     parameter h.
@@ -47,11 +13,10 @@ function predictStopAltitude {
     local dt_half to dt / 2.
     local dt_sixth to dt / 6.
 
-    cacheEngines(0).
     local verticalRatio to abs(ship:verticalSpeed) / max(ship:velocity:surface:mag, 0.001).
-    local totalThrust to cachedThrust.
+    local totalThrust to sumThrust().
     local verticalThrust to totalThrust * verticalRatio.
-    local effIsp to cachedEffIsp.
+    local effIsp to calcEffIsp().
     local radius to body:radius.
     local mu to body:mu.
     
@@ -81,12 +46,18 @@ function predictStopAltitude {
         local k2_m to m + dm * dt_half.
         local k2_dh to -k2_u.
         local k2_du to g - verticalThrust/k2_m - a_drag.
+
+        set a_drag to 0.
+        if k2_u > 0 { set a_drag to (dragCoeff * k2_u * k2_u) / m. }
         
         // k3
         local k3_u to u + k2_du * dt_half.
         local k3_m to m + dm * dt_half.
         local k3_dh to -k3_u.
         local k3_du to g - verticalThrust/k3_m - a_drag.
+
+        set a_drag to 0.
+        if k3_u > 0 { set a_drag to (dragCoeff * k3_u * k3_u) / m. }
 
         // k4
         local k4_u to u + k3_du * dt.

@@ -21,8 +21,8 @@ function sumIsp {
 }
 
 global function calcEffIsp {
-    local thrust to sumThrust().
+    local thrustSum to sumThrust().
     local ispSum to sumIsp().
-    if thrust = 0 or ispSum = 0 { return 0. }
-    return thrust / (body:mu / body:radius^2 * ispSum).
+    if thrustSum = 0 or ispSum = 0 { return 0. }
+    return thrustSum / ispSum.
 }

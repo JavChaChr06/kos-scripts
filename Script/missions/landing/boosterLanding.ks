@@ -49,7 +49,7 @@ function mainLoop {
 function landing {
     sas off.
     lock throttle to 0.
-    lock steering to srfPrograde.
+    lock steering to lookdirup(-ship:velocity:surface:normalized, ship:facing:topvector).
 
     wait until ship:verticalSpeed < -50.
 
